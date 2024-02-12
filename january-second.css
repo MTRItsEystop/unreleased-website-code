@@ -1,0 +1,16 @@
+.january-second-text {
+    font-family: sans-serif;
+    color: rgb(0, 37, 73);
+}
+
+body {
+    background-color: lightcoral;
+}
+
+.january-second-form {
+    color: brown;
+}
+
+.january-second-form:hover {
+    color: white;
+}
